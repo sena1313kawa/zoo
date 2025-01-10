@@ -1,0 +1,46 @@
+* {
+    margin: 0 auto;
+}
+body{
+background-color: rgb(133, 250, 250);}
+.header-text {
+    text-align: center;
+    color: rgb(21, 255, 0);
+    font-size: 200px;
+
+}
+h1{
+    color: rgb(255, 168, 241);
+    font-size: 200px;
+}
+button {
+    width: 800ex;
+    height: 200px;
+}
+
+.button {
+    columns: 2;
+    text-align: center;
+}
+
+.pankuzu-zou {
+    background-color: rgb(214, 145, 231);
+}
+
+.pankuzu-kaba {
+    background-color: rgb(238, 255, 161);
+}
+
+.pankuzu-furamingo {
+    background-color: rgb(255, 196, 237);
+}
+
+.pankuzu-tora {
+    background-color: rgb(255, 191, 107);
+}
+
+.zou-button {
+    border-radius: 5px;
+    background-color: rgb(196, 255, 161);
+    text-align: center;
+}
